@@ -1,0 +1,2 @@
+  Issued                Expires               Principal
+Jan  6 22:43:46 2020  Jan  7 08:43:46 2020  krbtgt/42.US.ORG@42.US.ORG
